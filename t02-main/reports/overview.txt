@@ -1,0 +1,3 @@
+Assumptions:
+-A qualification object cannot be constructed with the empty string
+-removing a worker that does not exist will throw an error
